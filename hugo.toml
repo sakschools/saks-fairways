@@ -4,9 +4,19 @@ title = 'Fairways Primary School - Kireka'
 theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
 
 [params]
-    mainSchool = false
-    defaultDescription = "Fairways Primary School - Kireka (Day) is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills."
+mainSchool = false
+defaultDescription = "Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
-        motto = 'We Ignite Academic Excellence'
-        summary1 = 'Fairways Primary School - Kireka (Day) is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.'
-        summary2 = 'We provide a stimulating and credible learning environment which will produce dynamic and talented young Ugandan citizens and ensure all learners are equipped to meet the challenges of life”.'
+        name = "fairways"
+        motto = 'Education with a Purpose'
+        mission = 'To be a leading school in the provision of quality education'
+        vision = 'The vision of Fairways Primary School, Kireka is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work.'
+        summary1 = 'Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.'
+        summary2 = 'At Fairways Primary School, Kireka, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.'
+    [params.carousel]
+        two = "Offering a broad learning environment"
+        three = "We train leaders by embracing smartness"
+        four = "Offering the best learning skills to students"
+        five = "Welcoming all types of students"
+        six = "Interactive teachers that monitor pupils in all activities"
+        
