@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Fairways Primary School - Kireka'
 theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
 
+
 [params]
+logo = "/img/logo.png"
 mainSchool = false
 defaultDescription = "Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
@@ -13,6 +15,7 @@ defaultDescription = "Fairways nursery and primary school-Kireka is a number one
         vision = 'The vision of Fairways Primary School, Kireka is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work.'
         summary1 = 'Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.'
         summary2 = 'At Fairways Primary School, Kireka, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.'
+        hm = "Welcome to fairways primary school- Kireka, a school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge."
     [params.carousel]
         two = "Offering a broad learning environment"
         three = "We train leaders by embracing smartness"
