@@ -2,7 +2,7 @@
 title: "HEAD TEACHER'S MESSAGE"
 ---
 
-## Mr Nyumba Ronald – Head Teacher
+## Mr Mulamogi Bashir – Head Teacher
 Welcome to fairways primary school- Kireka, a school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.
 
 Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge.
@@ -10,5 +10,5 @@ The school is multi-denominational because all religions are given an hour per w
 
 We shall be proud if you entrusted us with your child so that he/she can benefit from an enriched curriculum
 
-###### NYUMBA Ronald
+###### Mulamogi Bashir
 ###### HEADTEACHER
