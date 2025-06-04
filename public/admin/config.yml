@@ -52,3 +52,10 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Motto,Vision and Mission Page"
+        name: "mvm-page"
+        file: "content/motto-vission-mission/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
