@@ -4,7 +4,7 @@ type: about
 ---
    ![About Us Image](/img/about1.webp)
 
-# School Profile Fairways
+# School Profile 
 
 Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.
 
