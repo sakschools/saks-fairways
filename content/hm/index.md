@@ -10,4 +10,4 @@ The school is multi-denominational because all religions are given an hour per w
 
 We shall be proud if you entrusted us with your child so that he/she can benefit from an enriched curriculum
 
-###### Mr, Lubogo Steven
+###### Mr. Mulamogi Bashir
