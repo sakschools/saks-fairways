@@ -1,7 +1,7 @@
 ---
 title: HEAD TEACHER'S MESSAGE
 ---
-## Mr. Lubogo Steven – Head Teacher
+## Mr. Mulamogi Bashir – Head Teacher
 
 Welcome to fairways primary school- Kireka, a school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.
 
