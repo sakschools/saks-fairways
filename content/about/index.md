@@ -30,7 +30,7 @@ The school has maintained its remarkable academic excellence and pupil’s welfa
 
 * Spacious classrooms
 * Modern Spacious school libraries.
-* Computer classrooms with modern learning technology
+* Classrooms with modern learning technology
 * Playgrounds (incl. Basket ball, Netball, etc).
 * A sick bay with a qualified nurse and necessary drugs.
 * A multi-purpose hall
