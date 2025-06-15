@@ -4,15 +4,15 @@ type: about
 ---
    ![About Us Image](/img/about1.webp)
 
-# School Profile 
+# School Profile
 
-Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.
+Winston Day And Boarding Primary School- Kawempe is a number one education service provider within Uganda aiming at developing a holistic Winston Day And Bochild throughout the primary level. The school has two sections i.e pre-school and Primary school.
 
-At Fairways Primary School, Kireka, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.
+At Winston Day And Boarding Primary School- Kawempe , we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.
 
 ## School Motto
 
-Our School Motto is: “Education with a Purpose”
+Our School Motto is: “YES I CAN”
 
 ## Mission Statement
 
