@@ -34,8 +34,22 @@ On the girls’ side, the team fell 2-16 to City Parents' School before register
 
 Our junior basketball team made their debut on Match Day 2 and, although the results were challenging, their entry into competitive play was a milestone. They faced City Parents' School and Sir Apollo Kaggwa Boarding Primary School Old Kampala , and were defeated 0-20 and 1-38 respectively. Despite the tough score lines, the juniors remained positive and demonstrated admirable perseverance. Their spirit and coachability were evident, and with more practice and exposure, these young athletes will steadily find their footing in the league. 
 
-As we prepare for Match Day 3 at Sir Apollo Kaggwa Primary School Kisaasi, where we are scheduled to face Sir Apollo Kaggwa Primary School and Sir Apollo Kaggwa Primary School Kira, our focus remains on improvement, unity, and competitive excellence. This crucial stage in the league offers our teams another opportunity to demonstrate their growth, resilience, and unwavering determination. 
+As we prepare for Match Day 3 at Sir Apollo Kaggwa Primary School Kisaasi, where we are scheduled to face Sir Apollo Kaggwa Primary School and Sir Apollo Kaggwa Primary School Kira, our focus remains on improvement, unity, and competitive excellence. This crucial stage in the league offers our teams another opportunity to demonstrate their growth, resilience, and unwavering determination.  
 
 ![](/img/c8c61720-d95b-4ffe-a0b3-aa7a6f4bf89d.jfif)
 
 We extend our heartfelt appreciation to our devoted coaches, committed staff, and ever-supportive parents whose encouragement continues to uplift and inspire our players. With your continued support, our teams will represent Fairways with pride, discipline, and a strong sense of purpose in every game.
+
+# TABLE STANDINGS
+
+![](/img/1-1-.webp)
+
+![](/img/2.webp)
+
+![](/img/3.webp)
+
+![](/img/4.webp)
+
+![](/img/5.webp)
+
+![](/img/6.webp)
