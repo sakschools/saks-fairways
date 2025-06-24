@@ -2,7 +2,7 @@
 title: "Kampala Junior League : Fairways Shows Determination Despite Tough
   Matches on Match Day 2"
 date: 2025-06-24T14:08:44+06:00
-thumbnail: /img/whatsapp-image-2025-06-19-at-22.13.14.jpeg
+thumbnail: /img/kjl.webp
 ---
 Fairways Nursery and Primary School Kireka carried the confidence of a strong opening into Match Day 2 of the 2025 Kampala Junior League. While the day presented stiffer opposition and more tactical battles, our pupils remained spirited, determined, and focused on development. Across football and basketball, our teams gained valuable experience, showcasing not only their talent but also their willingness to grow with every match played.
 
