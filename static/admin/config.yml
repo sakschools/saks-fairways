@@ -59,7 +59,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-          
+
   - name: "settings"
     label: "Site Settings"
     delete: false # Prevent accidental deletion of core config files
@@ -77,6 +77,20 @@ collections:
               { label: "Vision", name: "vision", widget: "text" }
             ]}
 
+      - label: "Homepage About Section"
+        name: "about_home"
+        file: "data/settings/about.json"
+        fields:
+          - { label: "Motto", name: "motto", widget: "string" }
+          - { label: "Primary Summary", name: "summary1", widget: "text" }
+          - { label: "Secondary Summary", name: "summary2", widget: "text" }
+          - { label: "Read More Link", name: "read_more_link", widget: "string" }
+          - label: "Gallery Images"
+            name: "images"
+            widget: "list"
+            summary: '{{fields.image}}'
+            field: { label: "Image Path", name: "image", widget: "image" }      
+
       - label: "Social Media & Contact"
         name: "social"
         file: "data/settings/social.json"
@@ -91,7 +105,7 @@ collections:
 
       - label: "Homepage Carousel"
         name: "carousel"
-        file: "data/settings/carousel.json"
+        file: "data/settings/carousel-sister.json"
         fields:
           - label: "Slides"
             name: "slides"
@@ -130,7 +144,7 @@ collections:
 
       - label: "Head Teacher Message"
         name: "hm_message"
-        file: "data/settings/hm_message.json"
+        file: "data/settings/headteacher.json"
         fields:
           - { label: "Section Title", name: "title", widget: "string" }
           - { label: "Head Teacher Name", name: "name", widget: "string" }
