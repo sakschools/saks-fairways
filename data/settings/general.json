@@ -1,0 +1,14 @@
+{
+  "locale": "en-us",
+  "theme": "saks-theme",
+  "logo": "/img/logo.png",
+  "mainSchool": false,
+  "school": {
+    "motto": "Education with a Purpose"
+  },
+  "address": "",
+  "title": "Fairways Primary School - Kireka",
+  "defaultDescription": "Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
+  "email": "info@sirapollokaggwaschools.co.ug",
+  "baseURL": "fairways.sirapollokaggwaschools.co.ug"
+}
