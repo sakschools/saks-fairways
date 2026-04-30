@@ -4,7 +4,9 @@
   "logo": "/img/logo.png",
   "mainSchool": false,
   "school": {
-    "motto": "Education with a Purpose"
+    "motto": "Education with a Purpose",
+    "mission": "To be a leading school in the provision of quality education",
+    "vision": "The vision of Fairways Primary School, Kireka is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
   },
   "address": "",
   "title": "Fairways Primary School - Kireka",
