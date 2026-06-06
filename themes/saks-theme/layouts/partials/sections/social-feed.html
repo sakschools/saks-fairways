@@ -39,25 +39,14 @@
         {{ end }}
     </div>
 
-    <!-- YouTube Videos Section -->
+   <!-- YouTube Videos Section -->
     <div class="container mt-4">
-        <div class="row">
+        <div class="row justify-content-center">
             <h2 class="mb-4 text-center">Our YouTube Videos</h2>
-            <div class="col-md-6">
-                {{ with $social.youtube_id_1 }}
-                <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/{{ . }}" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen 
-                            loading="lazy"></iframe>
-                </div>
-                {{ end }}
-            </div>
-            <div class="col-md-6">
-                {{ with $social.youtube_id_2 }}
-                <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/{{ . }}" 
+            <div class="col-lg-8">
+                {{ with $social.youtube_playlist_id }}
+                <div class="video-container shadow-sm">
+                    <iframe src="https://www.youtube.com/embed/videoseries?list={{ . }}" 
                             frameborder="0" 
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                             allowfullscreen 
