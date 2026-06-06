@@ -1,8 +1,10 @@
 baseURL = 'https://fairways.sirapollokaggwaschools.co.ug/'
 locale = 'en-us'
 title = 'Fairways Primary School - Kireka'
-theme = "saks-theme"
 
+[module]
+  [[module.imports]]
+    path = 'github.com/sakschools/saks-shared-theme'
 
 [params]
 logo = "/img/logo.png"
