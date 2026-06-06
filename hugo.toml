@@ -9,3 +9,4 @@ title = 'Fairways Primary School - Kireka'
 [params]
 logo = "/img/logo.png"
 mainSchool = false
+github_repo = "saks-fairways"
